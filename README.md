@@ -1,1 +1,0 @@
-# Ancurtotal-Admin-Finder
