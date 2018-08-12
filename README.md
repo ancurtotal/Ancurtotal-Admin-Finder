@@ -1,20 +1,23 @@
-# TOOLSINSTALLERSPAMMER
+# TOOLSINSTALLERADMINFINDER
 20 TOOLS SPAM
 SEMUA TOOLS YANG KALIAN INSTALL ADA DI module TOOLS INI
 
 
-$apt update && apt upgrade
-$pkg install python python2 vim figlet curl
-$pkg install php
-$pip2 install lolcat
-$pkg install git
-$git clone https://github.com/TUANB4DUT/TOOLSINSTALLERv3
+$ apt update && apt upgrade
+$ pkg install python python2 vim figlet curl
+$ pkg install php
+$ pip2 install lolcat
+$ pkg install git
+$ git clone https://github.com/ancurtotal/Ancurtotal-Admin-Finder
 
 ```MENJALANKANNYA```
 
-$cd Ancurtotal-Spammer
-$chmod +x Ancurtotal-Spammer.sh
-$sh Ancurtotal-Spammer.sh
+$ cd Ancurtotal-Admin-Finder
+$ chmod +x Ancurtotal-Admin-Finder.sh
+$ sh Ancurtotal-Spammer.sh
+
+username : AncurtotalAdminFinder
+password : SODC
 
 EKAY ANCURTOTAL
 SCARY OF DEMON CYBER
