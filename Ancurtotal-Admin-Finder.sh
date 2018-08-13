@@ -31,7 +31,7 @@ figlet ANCURTOTAL | lolcat
 echo "                 #  SCARY OF DEMON CYBER # " | lolcat
 echo "_____________________________________________________________" | lolcat
 echo
-echo "TYPE       : AUTO INSTALLER TOOLS ADMIN FINDERR $green " |lolcat
+echo "TYPE       : AUTO INSTALLER TOOLS ADMIN FINDER $green " |lolcat
 echo "VERSION    : SODC v2 " | lolcat
 echo "TOTALS     : 3 TOOLS ADMIN FINDER " | lolcat
 echo "AUTHOR     : EKAY ANCURTOTAL $green " | lolcat
