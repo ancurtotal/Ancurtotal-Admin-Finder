@@ -10,6 +10,7 @@
 #BelajarBarengYukBro??
 
 clear
+cd module
 python2 ancurtotal.py
 # Variables
 b='\033[1m'
