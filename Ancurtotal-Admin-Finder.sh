@@ -117,7 +117,7 @@ echo "SUDAH TERINSTALL BRO!!" | lolcat
 echo
 echo "Cara Menggunakan Admin-Finder-Blazing-Fast :"
 echo " $ cd admin-finder"
-echo " $ chnod +x admin-finder.py"
+echo " $ chmod +x admin-finder.py"
 echo " $ python2 admin-finder.py"
 echo
 echo "- Masukan Target Anda..."
@@ -150,7 +150,7 @@ echo
 echo "Cara Menggunakan Admin_Panel_Finder :"
 echo " $ cd admin_panel_finder"
 echo " $ cd admin_panel"
-echo " $ chnod +x admin.py"
+echo " $ chmod +x admin.py"
 echo " $ python2 admin.py"
 echo
 echo "- Masukkan Alamat url Target..."
@@ -173,7 +173,7 @@ echo "SUDAH TERINSTALL BRO!!" | lolcat
 echo
 echo "Cara Menggunakan Admin-Panel-Penal :"
 echo " $ cd admin_penal"
-echo " $ chnod +x admin_panel_finder.py"
+echo " $ chmod +x admin_panel_finder.py"
 echo " $ python2 admin_panel_finder.py"
 echo
 echo "- Masukkan Alamat url Target..."
