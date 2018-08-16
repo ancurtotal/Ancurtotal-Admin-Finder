@@ -2,7 +2,7 @@ import os, sys
 
 print ("\033[1;32mMasukan UserName & Password:)")
 print ("\033[1;31;1mKalo Gak Tau Pm Ekay Ancurtotal 08567047731")
-username = 'AncurtotalAdminFinder'      
+username = 'AncurtotalAdmin'      
 password = 'SODC'
 
 def restart():

@@ -17,10 +17,10 @@ $ git clone https://github.com/ancurtotal/Ancurtotal-Admin-Finder
 ```MENJALANKANNYA```
 
 $ cd Ancurtotal-Admin-Finder
-$ chmod +x Ancurtotal-Admin-Finder.sh
-$ sh Ancurtotal-Admin-Finder.sh
+$ chmod +x Ancurtotal-Admin
+$ ./Ancurtotal-Admin
 
-username : AncurtotalAdminFinder
+username : AncurtotalAdmin
 password : SODC
 
 EKAY ANCURTOTAL
