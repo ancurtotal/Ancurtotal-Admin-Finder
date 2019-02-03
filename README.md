@@ -21,7 +21,8 @@ $ chmod +x Ancurtotal-Admin
 $ ./Ancurtotal-Admin
 
 username : AncurtotalAdmin
-password : SODC
+password : EKAY
 
-EKAY ANCURTOTAL
-SCARY OF DEMON CYBER
+   EKAY ANCURTOTAL
+ANCURTOTAL CYBER TEAM
+
