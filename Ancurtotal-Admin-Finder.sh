@@ -1,5 +1,5 @@
 #!/bin/bash
-#version 1.0
+#version 2.0
 
 # MAU NGAPAIN JINK??
 # DI RECODE GAK BAKAL JADIIN GUE NEWBIE DAN LO MASTAH!!!
@@ -33,8 +33,8 @@ figlet ANCURTOTAL | lolcat
 
 echo  "_____________________________________________________________" | lolcat
 echo  "TYPE      : TOOLS INSTALLER " |lolcat
-echo  "VERSION   : V.1 " | lolcat
-echo  "TOTALS    : 21 TOOLS " | lolcat
+echo  "VERSION   : V.2 " | lolcat
+echo  "TOTALS    : 3 TOOLS " | lolcat
 echo  "AUTHOR    : EKAY ANCURTOTAL " |lolcat
 echo  "ASSOCIATE : ANCURTOTAL CYBER TEAM " |lolcat
 echo  "ASSOCIATE : SCARY OF CYBER DEMON " |lolcat
