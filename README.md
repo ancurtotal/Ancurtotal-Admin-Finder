@@ -18,7 +18,7 @@ $ git clone https://github.com/ancurtotal/Ancurtotal-Admin-Finder
 
 $ cd Ancurtotal-Admin-Finder
 $ chmod +x Ancurtotal-Admin
-$ ./Ancurtotal-Admin
+$ sh Ancurtotal-Admin.sh
 
 username : AncurtotalAdmin
 password : EKAY
